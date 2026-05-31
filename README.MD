@@ -3,7 +3,7 @@
 A full-stack React application built with Vite and React Router v6 for managing technical project portfolios. It connects to a local JSON backend to deliver full CRUD features.
 
 ---
-
+```text
 ## Project Structure
 
 Project-Showcase-App/
