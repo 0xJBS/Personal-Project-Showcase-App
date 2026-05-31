@@ -1,0 +1,12 @@
+{
+  "projects": [
+    {
+      "id": "1",
+      "title": "Data Visualization Dashboard",
+      "description": "A deeply responsive interface built to render live telemetry charts using React.",
+      "technologies": "React, D3.js, Tailwind CSS",
+      "likes": 6
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
