@@ -28,7 +28,7 @@ Project-Showcase-App/
 ├── AdminPanel.jsx
 ├── Home.jsx
 └── Showcase.jsx
-
+```
 ---
 
 ## Setup & Execution Instructions
